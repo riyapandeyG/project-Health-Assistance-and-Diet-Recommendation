@@ -9,3 +9,5 @@ faiss-cpu
 pypdf
 sentence-transformers
 openai
+torch
+torchvision
