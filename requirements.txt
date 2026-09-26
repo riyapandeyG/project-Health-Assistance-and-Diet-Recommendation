@@ -1,7 +1,7 @@
 streamlit
 torch
 torchvision
-transformers
+sentence-transformers
 langchain
 langchain-community
 langchain-text-splitters
